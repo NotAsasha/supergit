@@ -1,4 +1,4 @@
-@media (orientation: landscape) {
+@media (orientation: portrait) {
     .bodka {
     background:red
     }
@@ -24,7 +24,7 @@ font-family: 'Permanent Marker', cursive;
     font-family: 'Permanent Marker', cursive;
 }
 
-@media (orientation: portrait) {
+@media (orientation: landscape) {
 .bodka {
 background: url(https://images.wallpaperscraft.ru/image/fon_led_svet_ten_75683_1920x1080.jpg)no-repeat fixed center;
 background-size: 100%;
