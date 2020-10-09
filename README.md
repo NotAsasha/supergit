@@ -19,4 +19,4 @@ _3._ **Для нічого**
 
 Дуже корисне посилання - https://www.youtube.com/watch?v=Sagg08DrO5U
 
-![Картінка](https://i.gifer.com/1luB.gif)
+![Картінка](Гендальф.gif)
